@@ -37,6 +37,9 @@ libjpeg-dev
 # and Javascript minification
 yui-compressor
 
+# Install less, for compiling the People's Shujaaz less files to CSS
+node-less
+
 ############################################################
 # The following can be installed by Python's pip into the virtual environment.
 # If you are not on Debian let pip do the installing for you.
